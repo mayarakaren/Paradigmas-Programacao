@@ -134,7 +134,7 @@ Neste exercício, você usará funções lambda e `filter` para filtrar elemento
 
 3. Leia o enunciado do exercício e tente resolvê-lo por conta própria.
 
-4. Consulte a solução e a explicação detalhada no arquivo `solucao.py`.
+4. Consulte a solução e a explicação detalhada no arquivo correspondente `ex3.py`.
 
 5. Experimente modificar o código ou criar variações dos exercícios para aprofundar sua compreensão.
 
